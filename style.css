@@ -18,23 +18,23 @@ border-radius: 111px 111px 0 0 ;
     font-size: 50px;
 }
 .item:nth-child(1){
-    background-color: red;
+    background-color: rgb(250, 111, 111);
      order: -5;
      flex-basis:calc(100% / 2) ;
      border-radius: 100px 0 0 0 ;
 }
 .item:nth-child(2){
-    background-color: blue;
+    background-color: rgb(111, 111, 224);
 }
 .item:nth-child(3){
-    background-color: purple;
+    background-color: rgb(124, 32, 124);
     order: -3;
 }
 .item:nth-child(4){
     background-color:green; 
 }
 .item:nth-child(5){
-    background-color: yellow;
+    background-color: gold;
     order: -4;
     flex-basis:calc(100% / 2) ;
     border-radius: 0 100px 0 0 ;
